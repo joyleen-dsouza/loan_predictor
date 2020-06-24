@@ -1,11 +1,11 @@
-## Loan Predictor using Machine Learning
+#Loan Predictor using Machine Learning
 I am working as an intern on this project under Dlithe company. 
 
 Problem statememt: A company that provides loan wants to automate the loan eligibility process based on customer details provided while filling online application form. These details are Gender, Marital Status, Education, Income, Loan Amount, Credit History and others.
 
-# The dataset includes:
+## The dataset includes:
 |Variable |	Description |
--------------------------
+|----------|--------------|
 |	Loan_ID |	Unique Loan ID |	
 |	Gender	| Male/ Female |	
 |Married	|Applicant married (Y/N)|
