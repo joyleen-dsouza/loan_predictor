@@ -1,5 +1,5 @@
 # Loan Predictor using Machine Learning
-I am working as an intern on this project under Dlithe company(www.dlithe.com) 
+I worked as an intern on this project under Dlithe company(www.dlithe.com) 
 
 Problem statememt: A company that provides loan wants to automate the loan eligibility process based on customer details provided while filling online application form. These details are Gender, Marital Status, Education, Income, Loan Amount, Credit History and others.
 
