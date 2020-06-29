@@ -21,3 +21,4 @@ The dataset includes:
 |Loan_Status |	Loan approved (Y/N)|
 
 Solution: I have done data preprocessing by filling the null values of Loan Amount and Credit history and dropping the remaining null values. After encoding and scaling the features, machine learning algorithms of KNN, SVM, Logistic Regression and Naive Bayes are applied to obtain a descent accuracy.
+The highest accuracy obtained is 81.65% using KNN model.
